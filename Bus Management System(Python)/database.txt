@@ -1,0 +1,4 @@
+1#Suman Mohanty#CSE#Cuttack#40000#
+2#Neeraj Wedhane#CSE#Mumbai#40000#
+3#Ambarish Dutta#CSE#Kokrajhar#40000#
+4#Utsav Kumar#CSE#Jamsedhpur#40000#

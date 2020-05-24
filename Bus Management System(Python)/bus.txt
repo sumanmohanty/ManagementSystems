@@ -1,0 +1,4 @@
+['1', 'Suman Mohanty', 'CSE', 'Cuttack', '40000', 1800, 1, 1]
+['2', 'Neeraj Wedhane', 'CSE', 'Mumbai', '40000', 1500, 1, 1]
+['3', 'Chatur', 'Accounts', 'Gangtok', '10000', 900, 1, 1]
+['3', 'Ambarish Dutta', 'CSE', 'Kokrajhar', '40000', 1500, 1, 1]
